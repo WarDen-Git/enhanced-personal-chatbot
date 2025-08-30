@@ -5,7 +5,7 @@ An advanced AI-powered personal chatbot for Denver Magtibay featuring enhanced d
 
 **🚀 Live Demo:** Coming soon on Streamlit Cloud  
 **👨‍💻 Developer:** [Denver Magtibay](https://github.com/WarDen-Git)  
-**📧 Contact:** engr.denver.magtibay@gmail.com
+**📧 Contact:** denver.am23onl009@spjain.org
 
 ## Features
 
